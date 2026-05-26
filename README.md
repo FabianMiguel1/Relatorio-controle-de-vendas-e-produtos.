@@ -1,2 +1,20 @@
-# Relatorio-controle-de-vendas-e-produtos.
-Desenvolvi um sistema de gestão de estoque utilizando Python integrado a um banco de dados MySQL. O projeto permite o cadastro de produtos, consulta completa do estoque e geração de relatórios analíticos, incluindo cálculo do valor total armazenado e identificação de itens com baixa quantidade.
+# Sistema de Controle de Estoque
+
+Sistema desenvolvido em Python com integração MySQL para gerenciamento de produtos e geração de relatórios.
+
+## Funcionalidades
+
+* Cadastro de produtos
+* Controle de estoque
+* Relatórios analíticos
+* Identificação de produtos com baixo estoque
+* Cálculo automático do valor armazenado
+
+## Tecnologias Utilizadas
+
+* Python
+* MySQL
+
+## Objetivo
+
+Projeto desenvolvido para prática de lógica de programação, banco de dados e desenvolvimento backend.
